@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct CursoIOSApp: App {
+struct IMCCalculatorApp: App {
     var body: some Scene {
         WindowGroup {
             IMCView()
